@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "mono:pixelsize=20:antialias=true:autohint=true";
-static char *font2[] = { "Noto Color Emoji:antialias=true:autohint=true", "Font Awesome 6 Brands Regular:style=Regular" };
+static char *font2[] = { "Noto Color Emoji:antialias=true:autohint=true", "Font Awesome 6 Brands Regular:style=Regular:antialias=true:autohint=true", "Font Awesome 6 Free:style=Solid:antialias=true:autohint=true" };
 static int borderpx = 15;
 
 /*
