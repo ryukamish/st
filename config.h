@@ -5,9 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Ubuntu Mono:pixelsize=18:antialias=true:autohint=true";
-static char *font2[] = { "Noto Color Emoji:antialias=true:autohint=true", "Font Awesome 6 Brands Regular:style=Regular" };
-static int borderpx = 15;
+static char *font = "mono:style=Medium:size=18:antialias=true:autohint=true";
+static char *font2[] = { "Noto Color Emoji:antialias=true:autohint=true", "Font Awesome 6 Free Solid:style=Solid", "Font Awesome 6 Brands Regular:style=Brands" };
+static int borderpx = 10;
 
 /*
  * What program is execed by st depends of these precedence rules:
