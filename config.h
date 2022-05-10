@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "mono:size=14:style=Book:antialias=true:autohint=true";
+static char *font = "mono:size=14:style=Medium:antialias=true:autohint=true";
 static char *font2[] = { "Noto Color Emoji:antialias=true:autohint=true" };
 static int borderpx = 15;
 
